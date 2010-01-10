@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="272"
+   name=""
+   committed-date="2010-01-06T21:48:25.931930Z"
+   url="file:///var/svn/icd/catalyst-traitfor-controller-breadcrumb-followed/trunk"
+   last-author="icydee"
+   kind="dir"
+   uuid="364936a5-d7fa-4b09-946b-f225ade75393"
+   repos="file:///var/svn/icd"
+   revision="272"/>
+<entry
+   name="t"
+   kind="dir"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   committed-rev="272"
+   name="MANIFEST"
+   text-time="2010-01-06T22:01:03.000000Z"
+   committed-date="2010-01-06T21:48:25.931930Z"
+   checksum="07be58e100d24ad8184964352077c823"
+   last-author="icydee"
+   kind="file"
+   prop-time="2010-01-06T22:01:03.000000Z"/>
+<entry
+   committed-rev="272"
+   name="pm_to_blib"
+   text-time="2010-01-06T22:01:03.000000Z"
+   committed-date="2010-01-06T21:48:25.931930Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="icydee"
+   kind="file"
+   prop-time="2010-01-06T22:01:03.000000Z"/>
+<entry
+   committed-rev="272"
+   name="Makefile.PL"
+   text-time="2010-01-06T22:01:03.000000Z"
+   committed-date="2010-01-06T21:48:25.931930Z"
+   checksum="d189179827ebaf5ab49cc1d24052969a"
+   last-author="icydee"
+   kind="file"
+   prop-time="2010-01-06T22:01:03.000000Z"/>
+<entry
+   committed-rev="272"
+   name="Changes"
+   text-time="2010-01-06T22:01:03.000000Z"
+   committed-date="2010-01-06T21:48:25.931930Z"
+   checksum="964221b416535d6c19dd912f09da69e9"
+   last-author="icydee"
+   kind="file"
+   prop-time="2010-01-06T22:01:03.000000Z"/>
+<entry
+   committed-rev="272"
+   name="README"
+   text-time="2010-01-06T22:01:03.000000Z"
+   committed-date="2010-01-06T21:48:25.931930Z"
+   checksum="07065ffc18895ce6b620e3117e3aa27f"
+   last-author="icydee"
+   kind="file"
+   prop-time="2010-01-06T22:01:03.000000Z"/>
+</wc-entries>
