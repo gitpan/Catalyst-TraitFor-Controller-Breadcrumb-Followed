@@ -1,8 +1,0 @@
-Changes
-Makefile.PL
-MANIFEST
-README
-t/01_basic.t
-t/tlib/Icydee/MockCatalyst.pm
-t/tlib/Icydee/TestObject.pm
-lib/Catalyst/TraitFor/Controller/Breadcrumb/Followed.pm

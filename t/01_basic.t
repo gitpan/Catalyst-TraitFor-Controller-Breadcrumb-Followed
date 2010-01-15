@@ -40,7 +40,7 @@ $followed->breadcrumb_add($c, 'Bar Title');
 
 ok($c->session->{breadcrumb}, "There is a breadcrumb");
 is(scalar @{$c->session->{breadcrumb}}, 2, "Array length");
-my $breadcrumb = $c->session->{breadcrumb}[0];
+$breadcrumb = $c->session->{breadcrumb}[0];
 ok($breadcrumb, "There is an array entry");
 is($breadcrumb->{title}, 'Foo Title', "Correct title");
 is($breadcrumb->{class}, 'lastDone', "Correct class");
